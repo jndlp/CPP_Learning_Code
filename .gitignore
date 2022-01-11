@@ -1,3 +1,9 @@
 .vscode/
 build/
 solutions/
+
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.o
